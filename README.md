@@ -6,7 +6,7 @@ Electrical impedance spectra of commercial orange juices, collected for three ex
 2. **Adulteration**: a juice is gradually diluted with water.
 3. **Brand classification**: pure juice of each of the four brands, recorded in several sample groups.
 
-> **Paper:** the reference will be added once the paper is published.
+> **Paper:** Z. Kara, O. Aybar, M. Yücel, B. B. Üstündağ, *"Electrical Impedance Spectroscopic Sensing and Spectral Analysis for Liquid Authenticity: An Orange Juice Case Study"*, **Sensors** (MDPI), 2026, in press.
 > **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may use the data for any purpose, including commercial use, provided you cite the paper (see [Citation](#citation)).
 
 The machine-learning code that uses this data is in a separate repository: [Orange-Juice-EIS-ML-Codes](https://github.com/Zeynep-Kara/Orange-Juice-EIS-ML-Codes).
@@ -88,4 +88,19 @@ Each brand is diluted step by step with water. The `adulteration` column is the 
 
 ## Citation
 
-If you use this dataset, please cite the accompanying paper. The full reference and BibTeX entry will be added here once it is published.
+If you use this dataset, please cite:
+
+> Z. Kara, O. Aybar, M. Yücel, B. B. Üstündağ, "Electrical Impedance Spectroscopic Sensing and Spectral Analysis for Liquid Authenticity: An Orange Juice Case Study", *Sensors* (MDPI), 2026, in press.
+
+```bibtex
+@article{kara2026orange,
+  title   = {Electrical Impedance Spectroscopic Sensing and Spectral Analysis for Liquid Authenticity: An Orange Juice Case Study},
+  author  = {Kara, Zeynep and Aybar, O{\u{g}}uzhan and Y{\"u}cel, Meri{\c{c}} and {\"U}st{\"u}nda{\u{g}}, Burak Berk},
+  journal = {Sensors},
+  publisher = {MDPI},
+  year    = {2026},
+  note    = {In press}
+}
+```
+
+The volume, article number and DOI will be added once the paper is published.
